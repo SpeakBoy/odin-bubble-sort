@@ -7,7 +7,6 @@ def bubble_sort(array)
                 array[inner_index + 1] = temp
             end
         end
-        puts array
     end
 end
 
